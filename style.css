@@ -1,0 +1,55 @@
+
+/* *{
+    box-sizing: border-box;
+} */
+
+
+button{
+    color: green;
+    background-color: white;
+    border-width: 4px;
+    border-color: green
+}
+input{
+    border-color: green;
+    border-width: 4px; 
+}
+/* body{
+  margin: 0;
+ display: grid;
+ min-height: 100;
+}
+
+.header {
+  
+    background-color: rgb(105, 88, 88);
+  
+
+}
+
+.aside-1 {
+
+    background-color: rgb(211, 156, 156);
+
+
+}
+.main {
+ 
+    background-color: burlywood;
+ 
+}
+
+
+
+.aside-2 {
+    background-color: rgb(64, 152, 96);
+
+}
+.footer {
+    grid-area: footer;
+    background-color: rgb(217, 208, 233);
+
+} */
+
+
+
